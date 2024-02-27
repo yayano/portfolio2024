@@ -1,0 +1,6 @@
+/frontend/node_modules
+/backend_sanity/node_modules
+/backend_sanity/.sanity
+/backend_sanity/dist
+/backend_sanity/.env
+/backend_sanity/.gitignore
