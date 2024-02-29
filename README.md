@@ -1,13 +1,10 @@
 # Portfolio Website
 
-<<<<<<< HEAD
-[Visit Portfolio Website](https://yahiaportfolio2024.netlify.app/)
-=======
->>>>>>> f65d26e33567e76a43a87f66f253805d1ff34779
 ![Screenshot](screenshot.png)
 
 ## Description
 
+[Visit Portfolio Website](https://yahiaportfolio2024.netlify.app/)
 This portfolio website showcases my work and projects. It is built using React, SCSS for styling, and utilizes Sanity CMS for backend data management. Framer Motion is used for animations to enhance user experience.
 
 ## Technologies Used
