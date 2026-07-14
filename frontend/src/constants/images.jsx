@@ -10,6 +10,7 @@ import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.svg";
+import logoV1 from "../assets/logoV1.svg";
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
 import bolt from "../assets/bolt.png";
@@ -31,6 +32,7 @@ export default {
   yahia,
   circle,
   logo,
+  logoV1,
   adidas,
   amazon,
   bolt,
